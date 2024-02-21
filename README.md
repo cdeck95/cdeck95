@@ -7,15 +7,39 @@ With a foundation in computer science and a specialization in cybersecurity from
 ### 🌐 Side Projects
 - **[Disc Rescue Network](https://discrescuenetwork.com)**: A scalable lost and found platform for disc golf courses, automating inventory management and text notifications. Built with ReactJS, Typescript, Docker, and AWS ElasticBeanstalk.
 
-### 💼 Experience
-- Developed APIs, web and mobile apps, serverless components, and microservices, showcasing proficiency in **React, Typescript, Python, HTML/JS**, and **AWS**.
-- **Notable Projects**:
-  1. **LinkUp**: A mobile app for iOS and Android, integrating AWS Cognito for user authentication.
-  2. **BestBet**: A cross-platform app built with C# in Xamarin, featuring AWS Cognito for user authentication.
-  3. **FuryOfTheFur**: A website leveraging Web3 technologies for an NFT dashboard, built with ReactJS and Typescript.
-  4. **Disc Rescue Network**: My main side project, a lost and found platform for disc golf courses.
+Hello there! I'm Chris, a Full-Stack Software Developer with a rich background in cyber and information security. I graduated from Rowan University in 2017 with a major in computer science and a specialization in cybersecurity. After spending seven years climbing the ranks at TD Bank to become a Senior Information Security Specialist, I've decided to return to my roots in software development.
 
-### 🛠 Skills & Technologies
+I'm passionate about creating impactful solutions and providing tangible benefits to communities through my work. My expertise lies in React, TypeScript, Python, HTML/JS, AWS, and more. I'm also experienced with Docker, YAML files, and CI/CD pipelines. 
+
+## 🚀 Projects
+
+- **LinkUp**: A mobile app for iOS and Android that integrates with an API and various AWS Lambda functions. It features user authentication via AWS Cognito.
+- **BestBet**: A cross-platform mobile app built in C# using Xamarin, leveraging an odds-API to provide the best betting odds. It includes AWS Lambda functions and user authentication via AWS Cognito.
+- **FuryOfTheFur**: A website integrated with Web3 technologies, offering an NFT Dashboard with minting, burning, and more. Built with ReactJS, TypeScript, and deployed through Netlify.
+- **Disc Rescue Network**: A scalable lost and found platform for disc golf courses, automating inventory management and text notifications. Built with ReactJS, TypeScript, and a Python backend, using Docker and AWS Elastic Beanstalk for deployment.
+
+## 🛠 Skills & Technologies
+
+- **Languages/Frameworks**: ReactJS, TypeScript, JavaScript, HTML, CSS, Python, C#, Java, Swift
+- **Technologies**: AWS Cloud, Docker, Serverless/Lambda, XML, JSON, REST APIs
+- **Certifications**: CISSP, CCSP, AWS Security Specialist, AWS Cloud Practitioner, Azure Fundamentals (AZ-900)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/Typescript
+
+## 🏆 Achievements
+
+- **TD TechJam Hackathon 2018 Winner**: Led the winning team with the idea & mockup for "TD MyHub," which was fast-tracked into prototyping.
+
+I bring a unique blend of security expertise and software development skills to create a robust DevSecOps environment. Despite having less traditional work experience in software development, my side projects and constant learning keep me at the forefront of technology.
+
+## 📫 Connect with Me
+
+- Email: [deckchris95@gmail.com](mailto:deckchris95@gmail.com)
+- LinkedIn: [Chris Deck](https://www.linkedin.com/in/chrisdeck95/)
+
+![AWS Icon](AWS_icon_link) ![React Icon](React_icon_link) ![TypeScript Icon](TypeScript_icon_link) ![Python Icon](Python_icon_link) ![Docker Icon](Docker_icon_link)
+
+*Please replace `AWS_icon_link`, `React_icon_link`, `TypeScript_icon_link`, `Python_icon_link`, `Docker_icon_link` with the actual paths to the icons after you upload them to a hosting service or directly to your GitHub repository.*
+
