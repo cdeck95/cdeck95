@@ -2,14 +2,7 @@
 
 ## Full-Stack Software Developer
 
-With a foundation in computer science and a specialization in cybersecurity from Rowan University, I've evolved from entry-level software development roles to a Senior Information Security Specialist at TD Bank. After seven years in cybersecurity, I'm pivoting back to my roots in software development, driven by a passion for creating impactful solutions.
-
-### 🌐 Side Projects
-- **[Disc Rescue Network](https://discrescuenetwork.com)**: A scalable lost and found platform for disc golf courses, automating inventory management and text notifications. Built with ReactJS, Typescript, Docker, and AWS ElasticBeanstalk.
-
-Hello there! I'm Chris, a Full-Stack Software Developer with a rich background in cyber and information security. I graduated from Rowan University in 2017 with a major in computer science and a specialization in cybersecurity. After spending seven years climbing the ranks at TD Bank to become a Senior Information Security Specialist, I've decided to return to my roots in software development.
-
-I'm passionate about creating impactful solutions and providing tangible benefits to communities through my work. My expertise lies in React, TypeScript, Python, HTML/JS, AWS, and more. I'm also experienced with Docker, YAML files, and CI/CD pipelines. 
+With a foundation in computer science and a specialization in cybersecurity from Rowan University, I've evolved from entry-level software development roles to a Senior Information Security Specialist at TD Bank. After seven years in cybersecurity, I'm pivoting back to my roots in software development, driven by a passion for creating impactful solutions. My expertise lies in React, TypeScript, Python, HTML/JS, AWS, and more. I'm also experienced with Docker, YAML files, and CI/CD pipelines. 
 
 ## 🚀 Projects
 
