@@ -6,10 +6,11 @@ With a foundation in computer science and a specialization in cybersecurity from
 
 ## 🚀 Projects
 
-- **LinkUp**: A mobile app for iOS and Android that integrates with an API and various AWS Lambda functions. It features user authentication via AWS Cognito.
+- **Disc Rescue Network(https://discrescuenetwork.com)**: A scalable lost and found platform for disc golf courses, automating inventory management and text notifications. Built with ReactJS, TypeScript, and a Python backend, using Docker and AWS Elastic Beanstalk for deployment.
 - **BestBet**: A cross-platform mobile app built in C# using Xamarin, leveraging an odds-API to provide the best betting odds. It includes AWS Lambda functions and user authentication via AWS Cognito.
-- **FuryOfTheFur**: A website integrated with Web3 technologies, offering an NFT Dashboard with minting, burning, and more. Built with ReactJS, TypeScript, and deployed through Netlify.
-- **Disc Rescue Network**: A scalable lost and found platform for disc golf courses, automating inventory management and text notifications. Built with ReactJS, TypeScript, and a Python backend, using Docker and AWS Elastic Beanstalk for deployment.
+- **LinkUp**: A mobile app for iOS and Android that integrates with a python API and various AWS Lambda functions. It features user authentication via AWS Cognito. The app will generate "profiles" linked to QR codes that include details/links to your social media accounts. Fully customizable and sticky. Once you share a profile with someone, the "business card" will be updated in real-time when accounts are modified. 
+- **FuryOfTheFur**: Web application integrated with Web3 technologies, offering an NFT Dashboard with minting, burning, and more. Built with ReactJS, TypeScript, and deployed through Netlify.
+
 
 ## 🛠 Skills & Technologies
 
