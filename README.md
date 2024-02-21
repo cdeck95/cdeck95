@@ -30,6 +30,12 @@ With a foundation in computer science and a specialization in cybersecurity from
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
+![CISSP](https://img.shields.io/badge/CISSP-005A9C?style=for-the-badge&logo=isc2&logoColor=white)
+![CCSP](https://img.shields.io/badge/CCSP-005A9C?style=for-the-badge&logo=isc2&logoColor=white)
+![AWS Security Specialist](https://img.shields.io/badge/AWS_Security_Specialist-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ## 🏆 Achievements
 
 - **TD TechJam Hackathon 2018 Winner**: Led the winning team with the idea & mockup for "TD MyHub," which was fast-tracked into prototyping.
