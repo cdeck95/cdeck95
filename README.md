@@ -47,7 +47,3 @@ I bring a unique blend of security expertise and software development skills to 
 - Email: [deckchris95@gmail.com](mailto:deckchris95@gmail.com)
 - LinkedIn: [Chris Deck](https://www.linkedin.com/in/chrisdeck95/)
 
-![AWS Icon](AWS_icon_link) ![React Icon](React_icon_link) ![TypeScript Icon](TypeScript_icon_link) ![Python Icon](Python_icon_link) ![Docker Icon](Docker_icon_link)
-
-*Please replace `AWS_icon_link`, `React_icon_link`, `TypeScript_icon_link`, `Python_icon_link`, `Docker_icon_link` with the actual paths to the icons after you upload them to a hosting service or directly to your GitHub repository.*
-
