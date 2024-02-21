@@ -1,4 +1,4 @@
-# Hi there, I'm Chris Deck 👋
+# Hi, I'm Chris Deck 👋
 
 ## Full-Stack Software Developer
 
